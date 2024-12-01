@@ -1,0 +1,46 @@
+# ninja log v6
+2521	11812	7547724426270559	CMakeFiles/practica5.dir/pacman.cpp.obj	2f959dfd2b957d6f
+38	521	7547733449763656	practica5_autogen/timestamp	f8bc00a3c521f949
+525	9486	7547733454786394	CMakeFiles/practica5.dir/mainwindow.cpp.obj	42e2792dee19a3c3
+38	521	7547733449763656	practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+2138	10804	7547730866417249	CMakeFiles/practica5.dir/main.cpp.obj	12c69e76431b6362
+2129	10940	7547730866339817	CMakeFiles/practica5.dir/practica5_autogen/mocs_compilation.cpp.obj	e3aea0db267e4983
+38	521	7547733449763656	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/timestamp	f8bc00a3c521f949
+38	521	7547733449763656	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+9489	10385	7547733544426978	practica5.exe	82d01995d42724bc
+586	5950	7533161420245138	CMakeFiles/practica5.dir/ghost.cpp.obj	80fd58eaef245be7
+653	6555	7547728565242638	CMakeFiles/practica5.dir/cookie.cpp.obj	4f7093e84679653e
+44	2490	7547735586731369	practica5_autogen/timestamp	f8bc00a3c521f949
+44	2490	7547735586731369	practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+44	2490	7547735586731369	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/timestamp	f8bc00a3c521f949
+44	2490	7547735586731369	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+2517	16853	7547735589801165	CMakeFiles/practica5.dir/main.cpp.obj	12c69e76431b6362
+2494	16943	7547735589574089	CMakeFiles/practica5.dir/practica5_autogen/mocs_compilation.cpp.obj	e3aea0db267e4983
+2528	17071	7547735589918365	CMakeFiles/practica5.dir/mainwindow.cpp.obj	42e2792dee19a3c3
+17071	18404	7547735735348869	practica5.exe	1d175d68853e84b4
+45	2568	7547736874911488	practica5_autogen/timestamp	f8bc00a3c521f949
+45	2568	7547736874911488	practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+45	2568	7547736874911488	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/timestamp	f8bc00a3c521f949
+45	2568	7547736874911488	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+2581	14068	7547736877155126	CMakeFiles/practica5.dir/main.cpp.obj	12c69e76431b6362
+2589	14558	7547736877234908	CMakeFiles/practica5.dir/mainwindow.cpp.obj	42e2792dee19a3c3
+644	2815	7547737312926040	practica5_autogen/timestamp	f8bc00a3c521f949
+644	2815	7547737312926040	practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+644	2815	7547737312926040	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/timestamp	f8bc00a3c521f949
+644	2815	7547737312926040	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+2844	20035	7547737315412245	CMakeFiles/practica5.dir/pacman.cpp.obj	2f959dfd2b957d6f
+2853	20316	7547737315495015	CMakeFiles/practica5.dir/ghost.cpp.obj	80fd58eaef245be7
+2828	20398	7547737315242297	CMakeFiles/practica5.dir/main.cpp.obj	12c69e76431b6362
+2819	20539	7547737315167665	CMakeFiles/practica5.dir/practica5_autogen/mocs_compilation.cpp.obj	e3aea0db267e4983
+2836	20785	7547737315339038	CMakeFiles/practica5.dir/mainwindow.cpp.obj	42e2792dee19a3c3
+20785	21850	7547737494822259	practica5.exe	1d175d68853e84b4
+41	2258	7547742743315897	practica5_autogen/timestamp	f8bc00a3c521f949
+41	2258	7547742743315897	practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+41	2258	7547742743315897	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/timestamp	f8bc00a3c521f949
+41	2258	7547742743315897	C:/Users/HP/OneDrive/green/green/Ingenieria/II/Informatica II/practicas/practica5/practica5/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/practica5_autogen/mocs_compilation.cpp	f8bc00a3c521f949
+2380	20907	7547742747190579	CMakeFiles/practica5.dir/ghost.cpp.obj	80fd58eaef245be7
+2270	21345	7547742746103497	CMakeFiles/practica5.dir/main.cpp.obj	12c69e76431b6362
+2313	21474	7547742746534137	CMakeFiles/practica5.dir/pacman.cpp.obj	2f959dfd2b957d6f
+2262	21685	7547742746011985	CMakeFiles/practica5.dir/practica5_autogen/mocs_compilation.cpp.obj	e3aea0db267e4983
+2296	22141	7547742746356413	CMakeFiles/practica5.dir/mainwindow.cpp.obj	42e2792dee19a3c3
+22142	22977	7547742944814498	practica5.exe	1d175d68853e84b4
